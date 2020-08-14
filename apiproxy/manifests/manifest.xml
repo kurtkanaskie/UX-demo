@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="QU-ByApp" version="SHA-512:97c9893c63e4473aad42b0073247649dec4a0d81415532d3d558dd961a9908c7ac22003a76c244919a7c7fad19916c64247269b8a1780c36680e359fcb90f2d3"/>
+        <VersionInfo resourceName="RC-Stations" version="SHA-512:8362cc6717cafc4f6a46d8e26e4c1b54a7f4191a31247f0cbe93618f9e71d56b7f97f2b57e8de2490a951662717254f6819f98f9c69b8d2b13ad2b0a8b5cf5ce"/>
+        <VersionInfo resourceName="RF-MissingRequiredParam" version="SHA-512:a523c6494f45b1c7e8de8e0cb263778209144b2b2b21de9e4d8b4a4df680d12be32d35bfcdfdb80256e0c5b6265741e39d2d47e1d950f7b6a1c5624d39efacf4"/>
+        <VersionInfo resourceName="VA-Header" version="SHA-512:faec312d5c1a08d54a44d491474683b377c34181cb27149464aa2a20d11ecde7f3bc7b1e48169c2feb979177735d621b44d3eb3f2e9569b981789f870f8c0e06"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:2408a978a7c9e77b7814f236f5f42d0a40a23e0047da889fe2b3bfa50eccd42deebde7e8497537023e4c3fcc454d2cbdaacef6a1ab0f7e76dd0f7816d10250bf"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:e9920c26d7f2c0ece7d882f0d3896cf878a26d5abbda8c8d061cbddc697de77014b01257eb1ca2ccfd118bc3ed6ee5adbe8f9dfce338fcf5d9c994555b841537"/>
+    </TargetEndpoints>
+</Manifest>

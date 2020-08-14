@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Quota async="false" continueOnError="false" enabled="true" name="QU-ByApp" type="flexi">
+    <DisplayName>QU-ByApp</DisplayName>
+    <Identifier ref="verifyapikey.VA-Header.client_id"/>
+    <Interval>1</Interval>
+    <TimeUnit>hour</TimeUnit>
+    <Allow>200</Allow>
+    <Distributed>true</Distributed>
+    <Synchronous>true</Synchronous>
+</Quota>

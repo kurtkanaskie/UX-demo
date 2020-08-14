@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="kurt-weather-api">
+    <Basepaths>/v1/weatherapi</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1597424997078</CreatedAt>
+    <CreatedBy>imjeremy+uxtest-4@google.com</CreatedBy>
+    <Description>This is a proxy to an existing backend with no security.</Description>
+    <DisplayName>kurt-weather-api</DisplayName>
+    <LastModifiedAt>1597426661761</LastModifiedAt>
+    <LastModifiedBy>imjeremy+uxtest-4@google.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:20bb3cf63167d58bf50e4388594d185c150617299fdb55a75ca0b768203a2a7ab9cdfe3b0351fe514453f11f62cc363a3824a149cc7b10fc33be83d502931385</ManifestVersion>
+    <Policies>
+        <Policy>QU-ByApp</Policy>
+        <Policy>RC-Stations</Policy>
+        <Policy>RF-MissingRequiredParam</Policy>
+        <Policy>VA-Header</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

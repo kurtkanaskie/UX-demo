@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TargetEndpoint name="default">
+    <PreFlow name="PreFlow">
+        <Request/>
+        <Response/>
+    </PreFlow>
+    <Flows/>
+    <PostFlow name="PostFlow">
+        <Request/>
+        <Response>
+        </Response>
+    </PostFlow>
+    <HTTPTargetConnection>
+        <URL> https://run.mocky.io/v3/4a198798-201d-4a64-8065-2c44ffa88d5c</URL>
+    </HTTPTargetConnection>
+</TargetEndpoint>
